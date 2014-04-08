@@ -1,0 +1,17 @@
+Result List, size: 8
+fitness: 0.280000 	 pi: 1.000000 	 gene: 
+2,3,3
+fitness: 0.120000 	 pi: 0.877564 	 gene: 
+3,3,5
+fitness: 0.120000 	 pi: 0.883810 	 gene: 
+3,3,2
+fitness: 0.120000 	 pi: 0.902680 	 gene: 
+2,2,3
+fitness: 0.120000 	 pi: 0.915371 	 gene: 
+1,2,2
+fitness: 0.120000 	 pi: 0.934574 	 gene: 
+3,2,3
+fitness: 0.080000 	 pi: 0.792447 	 gene: 
+1,2,3
+fitness: 0.040000 	 pi: 0.757298 	 gene: 
+2,1,5

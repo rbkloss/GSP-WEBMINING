@@ -1,0 +1,21 @@
+ pageName: 13 frequência: 145
+ pageName: 2 frequência: 142
+ pageName: 11 frequência: 140
+ pageName: 4 frequência: 138
+ pageName: 10 frequência: 132
+ pageName: 9 frequência: 130
+ pageName: 12 frequência: 128
+ pageName: 14 frequência: 124
+ pageName: 16 frequência: 123
+ pageName: 18 frequência: 123
+ pageName: 8 frequência: 123
+ pageName: 1 frequência: 122
+ pageName: 15 frequência: 121
+ pageName: 3 frequência: 121
+ pageName: 17 frequência: 119
+ pageName: 20 frequência: 119
+ pageName: 5 frequência: 118
+ pageName: 7 frequência: 116
+ pageName: 19 frequência: 111
+ pageName: 6 frequência: 105
+

@@ -1,0 +1,30 @@
+PatternList(size:26): 
+ Distribution :12833.827 Totalfreq : 3708976.0
+
+1 1 	freq:367643.0	 confidence: 0.5488536 support : 0.09912251
+8 8 	freq:310403.0	 confidence: 0.9015952 support : 0.083689675
+14 14 	freq:230888.0	 confidence: 0.79895633 support : 0.062251143
+4 4 	freq:211271.0	 confidence: 0.71606606 support : 0.056962084
+2 2 	freq:200158.0	 confidence: 0.62107825 support : 0.053965837
+7 7 	freq:177179.0	 confidence: 0.6119961 support : 0.04777033
+6 6 	freq:124270.0	 confidence: 0.53980446 support : 0.033505205
+5 5 	freq:117840.0	 confidence: 0.85981333 support : 0.031771574
+12 12 	freq:115985.0	 confidence: 0.65424013 support : 0.031271435
+13 13 	freq:98034.0	 confidence: 0.736627 support : 0.026431555
+1 2 	freq:65994.0	 confidence: 0.15164888 support : 0.017793052
+9 9 	freq:65736.0	 confidence: 0.5525798 support : 0.01772349
+10 10 	freq:64660.0	 confidence: 0.6272615 support : 0.017433383
+3 3 	freq:59022.0	 confidence: 0.55565286 support : 0.015913287
+2 1 	freq:43572.0	 confidence: 0.10012493 support : 0.011747717
+6 7 	freq:36281.0	 confidence: 0.1414581 support : 0.0097819455
+1 12 	freq:35487.0	 confidence: 0.12657554 support : 0.00956787
+7 4 	freq:32393.0	 confidence: 0.11083973 support : 0.008733678
+7 6 	freq:28879.0	 confidence: 0.112598 support : 0.007786246
+11 11 	freq:27284.0	 confidence: 0.40635052 support : 0.0073562083
+1 11 	freq:23216.0	 confidence: 0.19021173 support : 0.0062594097
+16 16 	freq:21975.0	 confidence: 0.9155487 support : 0.005924816
+1 3 	freq:20013.0	 confidence: 0.10914323 support : 0.0053958287
+11 1 	freq:17652.0	 confidence: 0.14462514 support : 0.004759265
+15 15 	freq:12198.0	 confidence: 0.30114058 support : 0.0032887782
+6 15 	freq:8166.0	 confidence: 0.11853563 support : 0.002201686
+

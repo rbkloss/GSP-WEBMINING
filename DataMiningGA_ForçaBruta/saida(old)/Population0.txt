@@ -1,0 +1,1200 @@
+gene:21614
+fitness:	 0.001996007984031936pi:	 1.0
+
+
+gene:9814
+fitness:	 0.0013306719893546241pi:	 0.98675525
+
+
+gene:61617
+fitness:	 0.0013306719893546241pi:	 0.98015505
+
+
+gene:1282
+fitness:	 0.0013306719893546241pi:	 0.97357696
+
+
+gene:6714
+fitness:	 0.0013306719893546241pi:	 0.96702105
+
+
+gene:9118
+fitness:	 0.0013306719893546241pi:	 0.96048725
+
+
+gene:841
+fitness:	 0.0013306719893546241pi:	 0.9539756
+
+
+gene:181918
+fitness:	 6.653359946773121E-4pi:	 0.94748616
+
+
+gene:91018
+fitness:	 6.653359946773121E-4pi:	 0.9410188
+
+
+gene:131914
+fitness:	 6.653359946773121E-4pi:	 0.93457365
+
+
+gene:10209
+fitness:	 6.653359946773121E-4pi:	 0.9281506
+
+
+gene:101711
+fitness:	 6.653359946773121E-4pi:	 0.9217497
+
+
+gene:746
+fitness:	 6.653359946773121E-4pi:	 0.915371
+
+
+gene:191113
+fitness:	 6.653359946773121E-4pi:	 0.9090144
+
+
+gene:1939
+fitness:	 6.653359946773121E-4pi:	 0.90268
+
+
+gene:81519
+fitness:	 6.653359946773121E-4pi:	 0.89636767
+
+
+gene:6104
+fitness:	 6.653359946773121E-4pi:	 0.89007753
+
+
+gene:11013
+fitness:	 6.653359946773121E-4pi:	 0.8838095
+
+
+gene:81516
+fitness:	 6.653359946773121E-4pi:	 0.87756366
+
+
+gene:573
+fitness:	 6.653359946773121E-4pi:	 0.87134
+
+
+gene:13163
+fitness:	 6.653359946773121E-4pi:	 0.8651384
+
+
+gene:131517
+fitness:	 6.653359946773121E-4pi:	 0.858959
+
+
+gene:1713
+fitness:	 6.653359946773121E-4pi:	 0.8528018
+
+
+gene:244
+fitness:	 6.653359946773121E-4pi:	 0.8466667
+
+
+gene:2055
+fitness:	 6.653359946773121E-4pi:	 0.8405537
+
+
+gene:16720
+fitness:	 6.653359946773121E-4pi:	 0.8344629
+
+
+gene:191215
+fitness:	 6.653359946773121E-4pi:	 0.82839423
+
+
+gene:71919
+fitness:	 6.653359946773121E-4pi:	 0.8223477
+
+
+gene:71718
+fitness:	 6.653359946773121E-4pi:	 0.81632334
+
+
+gene:11172
+fitness:	 6.653359946773121E-4pi:	 0.81032115
+
+
+gene:14920
+fitness:	 6.653359946773121E-4pi:	 0.8043411
+
+
+gene:585
+fitness:	 6.653359946773121E-4pi:	 0.7983832
+
+
+gene:15118
+fitness:	 6.653359946773121E-4pi:	 0.7924474
+
+
+gene:319
+fitness:	 6.653359946773121E-4pi:	 0.7865338
+
+
+gene:11205
+fitness:	 6.653359946773121E-4pi:	 0.78064233
+
+
+gene:18819
+fitness:	 6.653359946773121E-4pi:	 0.774773
+
+
+gene:8118
+fitness:	 6.653359946773121E-4pi:	 0.7689258
+
+
+gene:141314
+fitness:	 6.653359946773121E-4pi:	 0.7631008
+
+
+gene:16156
+fitness:	 6.653359946773121E-4pi:	 0.7572979
+
+
+gene:91417
+fitness:	 0.0pi:	 0.7515172
+
+
+gene:111411
+fitness:	 0.0pi:	 0.7457586
+
+
+gene:5219
+fitness:	 0.0pi:	 0.7400221
+
+
+gene:1685
+fitness:	 0.0pi:	 0.7343079
+
+
+gene:1109
+fitness:	 0.0pi:	 0.7286157
+
+
+gene:12120
+fitness:	 0.0pi:	 0.72294575
+
+
+gene:1665
+fitness:	 0.0pi:	 0.7172979
+
+
+gene:201220
+fitness:	 0.0pi:	 0.7116722
+
+
+gene:7128
+fitness:	 0.0pi:	 0.70606863
+
+
+gene:5182
+fitness:	 0.0pi:	 0.70048726
+
+
+gene:61219
+fitness:	 0.0pi:	 0.694928
+
+
+gene:497
+fitness:	 0.0pi:	 0.6893909
+
+
+gene:171615
+fitness:	 0.0pi:	 0.683876
+
+
+gene:1085
+fitness:	 0.0pi:	 0.6783832
+
+
+gene:11717
+fitness:	 0.0pi:	 0.67291254
+
+
+gene:161518
+fitness:	 0.0pi:	 0.667464
+
+
+gene:776
+fitness:	 0.0pi:	 0.6620377
+
+
+gene:15212
+fitness:	 0.0pi:	 0.65663344
+
+
+gene:19410
+fitness:	 0.0pi:	 0.6512514
+
+
+gene:15137
+fitness:	 0.0pi:	 0.6458915
+
+
+gene:16201
+fitness:	 0.0pi:	 0.6405537
+
+
+gene:1961
+fitness:	 0.0pi:	 0.6352381
+
+
+gene:151620
+fitness:	 0.0pi:	 0.6299446
+
+
+gene:21410
+fitness:	 0.0pi:	 0.6246733
+
+
+gene:151620
+fitness:	 0.0pi:	 0.61942416
+
+
+gene:9156
+fitness:	 0.0pi:	 0.61419713
+
+
+gene:2094
+fitness:	 0.0pi:	 0.6089922
+
+
+gene:5174
+fitness:	 0.0pi:	 0.60380954
+
+
+gene:14189
+fitness:	 0.0pi:	 0.59864897
+
+
+gene:11110
+fitness:	 0.0pi:	 0.5935105
+
+
+gene:191611
+fitness:	 0.0pi:	 0.5883942
+
+
+gene:15201
+fitness:	 0.0pi:	 0.5833001
+
+
+gene:91915
+fitness:	 0.0pi:	 0.5782281
+
+
+gene:10313
+fitness:	 0.0pi:	 0.5731783
+
+
+gene:1416
+fitness:	 0.0pi:	 0.5681506
+
+
+gene:111812
+fitness:	 0.0pi:	 0.5631451
+
+
+gene:1118
+fitness:	 0.0pi:	 0.5581617
+
+
+gene:2153
+fitness:	 0.0pi:	 0.5532004
+
+
+gene:13122
+fitness:	 0.0pi:	 0.54826134
+
+
+gene:171619
+fitness:	 0.0pi:	 0.5433444
+
+
+gene:161
+fitness:	 0.0pi:	 0.5384496
+
+
+gene:258
+fitness:	 0.0pi:	 0.53357697
+
+
+gene:1755
+fitness:	 0.0pi:	 0.52872646
+
+
+gene:3119
+fitness:	 0.0pi:	 0.5238981
+
+
+gene:8125
+fitness:	 0.0pi:	 0.5190919
+
+
+gene:32017
+fitness:	 0.0pi:	 0.51430786
+
+
+gene:1635
+fitness:	 0.0pi:	 0.509546
+
+
+gene:11416
+fitness:	 0.0pi:	 0.5048062
+
+
+gene:51812
+fitness:	 0.0pi:	 0.5000886
+
+
+gene:20135
+fitness:	 0.0pi:	 0.49539313
+
+
+gene:131213
+fitness:	 0.0pi:	 0.49071983
+
+
+gene:14173
+fitness:	 0.0pi:	 0.48606867
+
+
+gene:16169
+fitness:	 0.0pi:	 0.48143965
+
+
+gene:14520
+fitness:	 0.0pi:	 0.47683278
+
+
+gene:161811
+fitness:	 0.0pi:	 0.47224805
+
+
+gene:91413
+fitness:	 0.0pi:	 0.4676855
+
+
+gene:927
+fitness:	 0.0pi:	 0.46314508
+
+
+gene:61712
+fitness:	 0.0pi:	 0.4586268
+
+
+gene:4179
+fitness:	 0.0pi:	 0.45413068
+
+
+gene:12171
+fitness:	 0.0pi:	 0.4496567
+
+
+gene:19188
+fitness:	 0.0pi:	 0.44520488
+
+
+gene:14512
+fitness:	 0.0pi:	 0.4407752
+
+
+gene:5715
+fitness:	 0.0pi:	 0.43636766
+
+
+gene:3108
+fitness:	 0.0pi:	 0.43198228
+
+
+gene:71115
+fitness:	 0.0pi:	 0.42761904
+
+
+gene:20313
+fitness:	 0.0pi:	 0.42327797
+
+
+gene:11213
+fitness:	 0.0pi:	 0.41895902
+
+
+gene:3312
+fitness:	 0.0pi:	 0.41466224
+
+
+gene:171610
+fitness:	 0.0pi:	 0.4103876
+
+
+gene:8145
+fitness:	 0.0pi:	 0.4061351
+
+
+gene:18115
+fitness:	 0.0pi:	 0.40190476
+
+
+gene:10718
+fitness:	 0.0pi:	 0.39769655
+
+
+gene:13114
+fitness:	 0.0pi:	 0.39351052
+
+
+gene:14114
+fitness:	 0.0pi:	 0.38934663
+
+
+gene:6612
+fitness:	 0.0pi:	 0.38520488
+
+
+gene:181317
+fitness:	 0.0pi:	 0.38108528
+
+
+gene:111012
+fitness:	 0.0pi:	 0.37698781
+
+
+gene:6112
+fitness:	 0.0pi:	 0.37291253
+
+
+gene:71911
+fitness:	 0.0pi:	 0.36885935
+
+
+gene:141511
+fitness:	 0.0pi:	 0.36482835
+
+
+gene:6513
+fitness:	 0.0pi:	 0.3608195
+
+
+gene:1296
+fitness:	 0.0pi:	 0.35683277
+
+
+gene:13164
+fitness:	 0.0pi:	 0.35286823
+
+
+gene:1085
+fitness:	 0.0pi:	 0.3489258
+
+
+gene:181611
+fitness:	 0.0pi:	 0.34500554
+
+
+gene:128
+fitness:	 0.0pi:	 0.34110743
+
+
+gene:358
+fitness:	 0.0pi:	 0.33723146
+
+
+gene:8617
+fitness:	 0.0pi:	 0.33337763
+
+
+gene:19112
+fitness:	 0.0pi:	 0.32954594
+
+
+gene:191317
+fitness:	 0.0pi:	 0.32573643
+
+
+gene:9196
+fitness:	 0.0pi:	 0.32194906
+
+
+gene:4812
+fitness:	 0.0pi:	 0.31818384
+
+
+gene:959
+fitness:	 0.0pi:	 0.31444076
+
+
+gene:456
+fitness:	 0.0pi:	 0.31071982
+
+
+gene:191912
+fitness:	 0.0pi:	 0.30702105
+
+
+gene:9162
+fitness:	 0.0pi:	 0.3033444
+
+
+gene:6414
+fitness:	 0.0pi:	 0.29968992
+
+
+gene:181316
+fitness:	 0.0pi:	 0.29605758
+
+
+gene:1157
+fitness:	 0.0pi:	 0.2924474
+
+
+gene:8199
+fitness:	 0.0pi:	 0.28885937
+
+
+gene:51510
+fitness:	 0.0pi:	 0.28529346
+
+
+gene:18104
+fitness:	 0.0pi:	 0.28174973
+
+
+gene:91417
+fitness:	 0.0pi:	 0.27822813
+
+
+gene:11515
+fitness:	 0.0pi:	 0.2747287
+
+
+gene:71415
+fitness:	 0.0pi:	 0.27125138
+
+
+gene:31317
+fitness:	 0.0pi:	 0.26779625
+
+
+gene:61213
+fitness:	 0.0pi:	 0.26436323
+
+
+gene:5913
+fitness:	 0.0pi:	 0.26095238
+
+
+gene:161918
+fitness:	 0.0pi:	 0.25756368
+
+
+gene:4914
+fitness:	 0.0pi:	 0.25419712
+
+
+gene:81619
+fitness:	 0.0pi:	 0.2508527
+
+
+gene:1789
+fitness:	 0.0pi:	 0.24753046
+
+
+gene:121911
+fitness:	 0.0pi:	 0.24423034
+
+
+gene:121212
+fitness:	 0.0pi:	 0.24095239
+
+
+gene:484
+fitness:	 0.0pi:	 0.23769657
+
+
+gene:13310
+fitness:	 0.0pi:	 0.2344629
+
+
+gene:91511
+fitness:	 0.0pi:	 0.23125139
+
+
+gene:1247
+fitness:	 0.0pi:	 0.22806202
+
+
+gene:151114
+fitness:	 0.0pi:	 0.22489479
+
+
+gene:1236
+fitness:	 0.0pi:	 0.22174972
+
+
+gene:1257
+fitness:	 0.0pi:	 0.2186268
+
+
+gene:91014
+fitness:	 0.0pi:	 0.21552603
+
+
+gene:6519
+fitness:	 0.0pi:	 0.2124474
+
+
+gene:101518
+fitness:	 0.0pi:	 0.20939092
+
+
+gene:6920
+fitness:	 0.0pi:	 0.20635659
+
+
+gene:1138
+fitness:	 0.0pi:	 0.2033444
+
+
+gene:3175
+fitness:	 0.0pi:	 0.20035437
+
+
+gene:2118
+fitness:	 0.0pi:	 0.19738649
+
+
+gene:11213
+fitness:	 0.0pi:	 0.19444075
+
+
+gene:1529
+fitness:	 0.0pi:	 0.19151716
+
+
+gene:7911
+fitness:	 0.0pi:	 0.18861572
+
+
+gene:12019
+fitness:	 0.0pi:	 0.18573643
+
+
+gene:16117
+fitness:	 0.0pi:	 0.18287928
+
+
+gene:4152
+fitness:	 0.0pi:	 0.1800443
+
+
+gene:11151
+fitness:	 0.0pi:	 0.17723145
+
+
+gene:5202
+fitness:	 0.0pi:	 0.17444076
+
+
+gene:1216
+fitness:	 0.0pi:	 0.17167221
+
+
+gene:1814
+fitness:	 0.0pi:	 0.1689258
+
+
+gene:141312
+fitness:	 0.0pi:	 0.16620155
+
+
+gene:17144
+fitness:	 0.0pi:	 0.16349944
+
+
+gene:15511
+fitness:	 0.0pi:	 0.16081949
+
+
+gene:61018
+fitness:	 0.0pi:	 0.15816168
+
+
+gene:1918
+fitness:	 0.0pi:	 0.15552603
+
+
+gene:131820
+fitness:	 0.0pi:	 0.15291251
+
+
+gene:14152
+fitness:	 0.0pi:	 0.15032116
+
+
+gene:656
+fitness:	 0.0pi:	 0.14775194
+
+
+gene:3108
+fitness:	 0.0pi:	 0.14520487
+
+
+gene:619
+fitness:	 0.0pi:	 0.14267996
+
+
+gene:368
+fitness:	 0.0pi:	 0.14017719
+
+
+gene:91416
+fitness:	 0.0pi:	 0.13769656
+
+
+gene:10716
+fitness:	 0.0pi:	 0.1352381
+
+
+gene:11210
+fitness:	 0.0pi:	 0.13280177
+
+
+gene:141715
+fitness:	 0.0pi:	 0.1303876
+
+
+gene:181315
+fitness:	 0.0pi:	 0.12799557
+
+
+gene:8163
+fitness:	 0.0pi:	 0.12562568
+
+
+gene:10620
+fitness:	 0.0pi:	 0.12327796
+
+
+gene:1386
+fitness:	 0.0pi:	 0.12095238
+
+
+gene:71017
+fitness:	 0.0pi:	 0.11864895
+
+
+gene:11611
+fitness:	 0.0pi:	 0.11636766
+
+
+gene:1263
+fitness:	 0.0pi:	 0.114108525
+
+
+gene:9420
+fitness:	 0.0pi:	 0.11187154
+
+
+gene:8199
+fitness:	 0.0pi:	 0.1096567
+
+
+gene:12312
+fitness:	 0.0pi:	 0.10746401
+
+
+gene:3176
+fitness:	 0.0pi:	 0.10529347
+
+
+gene:61112
+fitness:	 0.0pi:	 0.10314507
+
+
+gene:17149
+fitness:	 0.0pi:	 0.10101882
+
+
+gene:8148
+fitness:	 0.0pi:	 0.09891473
+
+
+gene:1232
+fitness:	 0.0pi:	 0.09683278
+
+
+gene:161116
+fitness:	 0.0pi:	 0.09477298
+
+
+gene:11320
+fitness:	 0.0pi:	 0.09273533
+
+
+gene:15416
+fitness:	 0.0pi:	 0.09071983
+
+
+gene:81620
+fitness:	 0.0pi:	 0.08872647
+
+
+gene:201913
+fitness:	 0.0pi:	 0.08675526
+
+
+gene:5109
+fitness:	 0.0pi:	 0.084806204
+
+
+gene:6918
+fitness:	 0.0pi:	 0.08287929
+
+
+gene:1195
+fitness:	 0.0pi:	 0.08097453
+
+
+gene:6177
+fitness:	 0.0pi:	 0.079091914
+
+
+gene:14203
+fitness:	 0.0pi:	 0.07723145
+
+
+gene:1371
+fitness:	 0.0pi:	 0.07539313
+
+
+gene:8511
+fitness:	 0.0pi:	 0.073576964
+
+
+gene:71411
+fitness:	 0.0pi:	 0.07178295
+
+
+gene:631
+fitness:	 0.0pi:	 0.07001107
+
+
+gene:13316
+fitness:	 0.0pi:	 0.06826135
+
+
+gene:8518
+fitness:	 0.0pi:	 0.066533774
+
+
+gene:15216
+fitness:	 0.0pi:	 0.06482835
+
+
+gene:1177
+fitness:	 0.0pi:	 0.06314507
+
+
+gene:81718
+fitness:	 0.0pi:	 0.061483942
+
+
+gene:8717
+fitness:	 0.0pi:	 0.05984496
+
+
+gene:14811
+fitness:	 0.0pi:	 0.058228128
+
+
+gene:15415
+fitness:	 0.0pi:	 0.056633443
+
+
+gene:1716
+fitness:	 0.0pi:	 0.05506091
+
+
+gene:1125
+fitness:	 0.0pi:	 0.05351052
+
+
+gene:11218
+fitness:	 0.0pi:	 0.05198228
+
+
+gene:61812
+fitness:	 0.0pi:	 0.05047619
+
+
+gene:4199
+fitness:	 0.0pi:	 0.048992246
+
+
+gene:5148
+fitness:	 0.0pi:	 0.047530454
+
+
+gene:2037
+fitness:	 0.0pi:	 0.046090808
+
+
+gene:61412
+fitness:	 0.0pi:	 0.044673312
+
+
+gene:161710
+fitness:	 0.0pi:	 0.043277964
+
+
+gene:161916
+fitness:	 0.0pi:	 0.041904762
+
+
+gene:982
+fitness:	 0.0pi:	 0.04055371
+
+
+gene:1667
+fitness:	 0.0pi:	 0.039224807
+
+
+gene:121014
+fitness:	 0.0pi:	 0.03791805
+
+
+gene:11612
+fitness:	 0.0pi:	 0.036633443
+
+
+gene:61110
+fitness:	 0.0pi:	 0.035370987
+
+
+gene:17710
+fitness:	 0.0pi:	 0.034130674
+
+
+gene:1382
+fitness:	 0.0pi:	 0.032912515
+
+
+gene:17113
+fitness:	 0.0pi:	 0.0317165
+
+
+gene:3419
+fitness:	 0.0pi:	 0.030542636
+
+
+gene:379
+fitness:	 0.0pi:	 0.02939092
+
+
+gene:16117
+fitness:	 0.0pi:	 0.02826135
+
+
+gene:8167
+fitness:	 0.0pi:	 0.027153932
+
+
+gene:3415
+fitness:	 0.0pi:	 0.02606866
+
+
+gene:121520
+fitness:	 0.0pi:	 0.025005538
+
+
+gene:151620
+fitness:	 0.0pi:	 0.023964563
+
+
+gene:7716
+fitness:	 0.0pi:	 0.022945736
+
+
+gene:11179
+fitness:	 0.0pi:	 0.021949058
+
+
+gene:71916
+fitness:	 0.0pi:	 0.02097453
+
+
+gene:2102
+fitness:	 0.0pi:	 0.020022148
+
+
+gene:13108
+fitness:	 0.0pi:	 0.019091915
+
+
+gene:2088
+fitness:	 0.0pi:	 0.018183831
+
+
+gene:12819
+fitness:	 0.0pi:	 0.017297896
+
+
+gene:21412
+fitness:	 0.0pi:	 0.016434109
+
+
+gene:16214
+fitness:	 0.0pi:	 0.01559247
+
+
+gene:41011
+fitness:	 0.0pi:	 0.014772979
+
+
+gene:71020
+fitness:	 0.0pi:	 0.013975637
+
+
+gene:2516
+fitness:	 0.0pi:	 0.013200443
+
+
+gene:10513
+fitness:	 0.0pi:	 0.012447397
+
+
+gene:274
+fitness:	 0.0pi:	 0.011716501
+
+
+gene:8193
+fitness:	 0.0pi:	 0.011007752
+
+
+gene:12174
+fitness:	 0.0pi:	 0.010321151
+
+
+gene:19817
+fitness:	 0.0pi:	 0.0096567
+
+
+gene:19123
+fitness:	 0.0pi:	 0.009014396
+
+
+gene:168
+fitness:	 0.0pi:	 0.008394241
+
+
+gene:19316
+fitness:	 0.0pi:	 0.007796235
+
+
+gene:1819
+fitness:	 0.0pi:	 0.0072203767
+
+
+gene:4208
+fitness:	 0.0pi:	 0.006666667
+
+
+gene:766
+fitness:	 0.0pi:	 0.006135105
+
+
+gene:1785
+fitness:	 0.0pi:	 0.005625692
+
+
+gene:16411
+fitness:	 0.0pi:	 0.0051384275
+
+
+gene:432
+fitness:	 0.0pi:	 0.004673311
+
+
+gene:15717
+fitness:	 0.0pi:	 0.0042303433
+
+
+gene:2017
+fitness:	 0.0pi:	 0.0038095238
+
+
+gene:981
+fitness:	 0.0pi:	 0.0034108527
+
+
+gene:131210
+fitness:	 0.0pi:	 0.00303433
+
+
+gene:11620
+fitness:	 0.0pi:	 0.0026799557
+
+
+gene:2716
+fitness:	 0.0pi:	 0.0023477299
+
+
+gene:4213
+fitness:	 0.0pi:	 0.0020376523
+
+
+gene:181116
+fitness:	 0.0pi:	 0.0017497231
+
+
+gene:15815
+fitness:	 0.0pi:	 0.0014839424
+
+
+gene:10416
+fitness:	 0.0pi:	 0.00124031
+
+
+gene:221
+fitness:	 0.0pi:	 0.0010188262
+
+
+gene:9179
+fitness:	 0.0pi:	 8.194906E-4
+
+
+gene:21413
+fitness:	 0.0pi:	 6.4230344E-4
+
+
+gene:13168
+fitness:	 0.0pi:	 4.8726468E-4
+
+
+gene:71312
+fitness:	 0.0pi:	 3.5437432E-4
+
+
+gene:359
+fitness:	 0.0pi:	 2.4363234E-4
+
+
+gene:248
+fitness:	 0.0pi:	 1.5503875E-4
+
+
+gene:12172
+fitness:	 0.0pi:	 8.859358E-5
+
+
+gene:1979
+fitness:	 0.0pi:	 4.429679E-5
+
+
+gene:17177
+fitness:	 0.0pi:	 2.2148395E-5
+
+

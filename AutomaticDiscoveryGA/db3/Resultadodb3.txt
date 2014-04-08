@@ -1,0 +1,27 @@
+PatternList(size:23): 
+ Distribution :-1.0 Totalfreq : 23.0
+
+1740 1740 819 	freq:1.0	 confidence: -1.0 support : 0.04347826
+1740 31583 1740 	freq:1.0	 confidence: -1.0 support : 0.04347826
+1740 1740 1740 	freq:1.0	 confidence: -1.0 support : 0.04347826
+13939 22372 834 	freq:1.0	 confidence: -1.0 support : 0.04347826
+33 22372 834 	freq:1.0	 confidence: -1.0 support : 0.04347826
+1037 30073 30055 	freq:1.0	 confidence: -1.0 support : 0.04347826
+1037 30073 1012 	freq:1.0	 confidence: -1.0 support : 0.04347826
+1037 30073 96 	freq:1.0	 confidence: -1.0 support : 0.04347826
+1464 33 11724 	freq:1.0	 confidence: -1.0 support : 0.04347826
+852 33 11724 	freq:1.0	 confidence: -1.0 support : 0.04347826
+98 1688 818 	freq:1.0	 confidence: -1.0 support : 0.04347826
+33800 1688 818 	freq:1.0	 confidence: -1.0 support : 0.04347826
+819 1688 818 	freq:1.0	 confidence: -1.0 support : 0.04347826
+25 4460 44 	freq:1.0	 confidence: -1.0 support : 0.04347826
+56984 57715 25 	freq:1.0	 confidence: -1.0 support : 0.04347826
+56984 57715 907 	freq:1.0	 confidence: -1.0 support : 0.04347826
+55 35 80 	freq:1.0	 confidence: -1.0 support : 0.04347826
+34 35 80 	freq:1.0	 confidence: -1.0 support : 0.04347826
+29194 29195 28733 	freq:1.0	 confidence: -1.0 support : 0.04347826
+29194 29195 29196 	freq:1.0	 confidence: -1.0 support : 0.04347826
+35185 10463 865 	freq:1.0	 confidence: -1.0 support : 0.04347826
+2462 10463 865 	freq:1.0	 confidence: -1.0 support : 0.04347826
+13108 10463 865 	freq:1.0	 confidence: -1.0 support : 0.04347826
+

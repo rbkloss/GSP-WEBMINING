@@ -1,0 +1,5 @@
+ParticleList :
+fitness : NaN
+fitness : NaN
+fitness : NaN
+

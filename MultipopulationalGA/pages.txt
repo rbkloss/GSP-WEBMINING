@@ -1,0 +1,17 @@
+PatternList(size:13): 
+ Distribution :-1.0 Totalfreq : 309.0
+
+8 	freq:90.0	 confidence: -1.0 support : 0.29126215
+1 	freq:35.0	 confidence: -1.0 support : 0.11326861
+2 	freq:34.0	 confidence: -1.0 support : 0.110032365
+3 	freq:26.0	 confidence: -1.0 support : 0.084142394
+14 	freq:24.0	 confidence: -1.0 support : 0.0776699
+6 	freq:21.0	 confidence: -1.0 support : 0.067961164
+4 	freq:20.0	 confidence: -1.0 support : 0.06472492
+7 	freq:20.0	 confidence: -1.0 support : 0.06472492
+12 	freq:13.0	 confidence: -1.0 support : 0.042071197
+13 	freq:13.0	 confidence: -1.0 support : 0.042071197
+9 	freq:6.0	 confidence: -1.0 support : 0.019417476
+10 	freq:5.0	 confidence: -1.0 support : 0.01618123
+11 	freq:2.0	 confidence: -1.0 support : 0.006472492
+

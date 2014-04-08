@@ -1,0 +1,9 @@
+Result List, size: 4
+gene: 
+1,1,1,
+gene: 
+5,5,5,
+gene: 
+13,13,13,
+gene: 
+12,12,12,

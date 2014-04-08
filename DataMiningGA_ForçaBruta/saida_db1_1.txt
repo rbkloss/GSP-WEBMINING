@@ -1,0 +1,171 @@
+run:
+1,
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+11,
+12,
+13,
+14,
+15,
+16,
+17,
+length:	:17
+Duração do generatePop() : 134097.95235799998ms
+Duração do printList() : 19.063356ms
+	Duração do doReprod() : 3.452051ms
+		Duração do calcFitness() : 132992.571929ms
+Duração do sort() : 0.48933299999999996ms
+	Duração do doReprod() : 1.563907ms
+		Duração do calcFitness() : 132896.387224ms
+Duração do sort() : 0.27352699999999996ms
+	Duração do doReprod() : 1.617461ms
+		Duração do calcFitness() : 132718.963222ms
+Duração do sort() : 0.42674ms
+	Duração do doReprod() : 1.58927ms
+		Duração do calcFitness() : 132828.63915899998ms
+Duração do sort() : 0.354328ms
+	Duração do doReprod() : 1.5582019999999999ms
+		Duração do calcFitness() : 132064.292195ms
+Duração do sort() : 0.40227199999999996ms
+	Duração do doReprod() : 1.542967ms
+		Duração do calcFitness() : 131260.778773ms
+Duração do sort() : 0.21012999999999998ms
+	Duração do doReprod() : 0.820128ms
+		Duração do calcFitness() : 130973.641918ms
+Duração do sort() : 0.192575ms
+	Duração do doReprod() : 0.7991229999999999ms
+		Duração do calcFitness() : 130409.05070899999ms
+Duração do sort() : 0.19003ms
+	Duração do doReprod() : 0.796635ms
+		Duração do calcFitness() : 134007.65577399998ms
+Duração do sort() : 0.18692ms
+	Duração do doReprod() : 0.909117ms
+		Duração do calcFitness() : 135292.193539ms
+Duração do sort() : 0.189769ms
+Iteração : 10
+	Duração do doReprod() : 0.973248ms
+		Duração do calcFitness() : 136092.981138ms
+Duração do sort() : 0.6367309999999999ms
+	Duração do doReprod() : 1.246163ms
+		Duração do calcFitness() : 133260.212696ms
+Duração do sort() : 0.287003ms
+	Duração do doReprod() : 0.881274ms
+		Duração do calcFitness() : 133538.481698ms
+Duração do sort() : 0.444623ms
+	Duração do doReprod() : 0.809963ms
+		Duração do calcFitness() : 134059.835672ms
+Duração do sort() : 0.193874ms
+	Duração do doReprod() : 0.888884ms
+		Duração do calcFitness() : 132867.223929ms
+Duração do sort() : 0.45919ms
+	Duração do doReprod() : 0.7867109999999999ms
+		Duração do calcFitness() : 139298.278424ms
+Duração do sort() : 0.18465299999999998ms
+	Duração do doReprod() : 1.7588ms
+		Duração do calcFitness() : 137668.606358ms
+Duração do sort() : 0.452816ms
+	Duração do doReprod() : 0.78581ms
+		Duração do calcFitness() : 132931.387ms
+Duração do sort() : 0.182609ms
+	Duração do doReprod() : 0.787208ms
+		Duração do calcFitness() : 135923.734993ms
+Duração do sort() : 0.204121ms
+	Duração do doReprod() : 0.813356ms
+		Duração do calcFitness() : 133948.356261ms
+Duração do sort() : 0.258722ms
+Iteração : 20
+	Duração do doReprod() : 0.845073ms
+		Duração do calcFitness() : 134897.386703ms
+Duração do sort() : 0.1901ms
+	Duração do doReprod() : 0.842202ms
+		Duração do calcFitness() : 137061.93964599998ms
+Duração do sort() : 0.269478ms
+	Duração do doReprod() : 0.884929ms
+		Duração do calcFitness() : 135950.771416ms
+Duração do sort() : 0.46025099999999997ms
+	Duração do doReprod() : 0.838156ms
+		Duração do calcFitness() : 138896.110136ms
+Duração do sort() : 0.18434599999999998ms
+	Duração do doReprod() : 0.7926209999999999ms
+		Duração do calcFitness() : 133922.962328ms
+Duração do sort() : 0.187189ms
+	Duração do doReprod() : 0.80336ms
+		Duração do calcFitness() : 136127.006482ms
+Duração do sort() : 0.184576ms
+	Duração do doReprod() : 0.7889029999999999ms
+		Duração do calcFitness() : 132182.435577ms
+Duração do sort() : 0.25823399999999996ms
+	Duração do doReprod() : 0.802159ms
+		Duração do calcFitness() : 134139.888349ms
+Duração do sort() : 0.286311ms
+	Duração do doReprod() : 0.7853749999999999ms
+		Duração do calcFitness() : 132442.499309ms
+Duração do sort() : 0.187559ms
+	Duração do doReprod() : 0.7917489999999999ms
+		Duração do calcFitness() : 132174.13794699998ms
+Duração do sort() : 0.180815ms
+Iteração : 30
+	Duração do doReprod() : 0.869726ms
+		Duração do calcFitness() : 131028.399827ms
+Duração do sort() : 0.270096ms
+	Duração do doReprod() : 0.8040569999999999ms
+		Duração do calcFitness() : 130580.95401999999ms
+Duração do sort() : 0.228376ms
+	Duração do doReprod() : 0.78077ms
+		Duração do calcFitness() : 132351.00228699998ms
+Duração do sort() : 0.23155199999999998ms
+	Duração do doReprod() : 0.799389ms
+		Duração do calcFitness() : 136212.672211ms
+Duração do sort() : 0.260217ms
+	Duração do doReprod() : 0.788804ms
+		Duração do calcFitness() : 133338.18188ms
+Duração do sort() : 0.285364ms
+	Duração do doReprod() : 0.7855909999999999ms
+		Duração do calcFitness() : 131864.870815ms
+Duração do sort() : 0.180914ms
+fitness: 0.089147 	 pi: 1.000000 	 gene: 
+1,1,1,
+fitness: 0.030371 	 pi: 1.000000 	 gene: 
+12,12,12,
+fitness: 0.007279 	 pi: 0.847327 	 gene: 
+1,14,14,
+fitness: 0.005568 	 pi: 0.386931 	 gene: 
+1,12,1,
+fitness: 0.005406 	 pi: 0.829109 	 gene: 
+1,12,12,
+fitness: 0.004028 	 pi: 0.960792 	 gene: 
+2,1,2,
+fitness: 0.003926 	 pi: 0.154653 	 gene: 
+1,14,1,
+fitness: 0.003677 	 pi: 0.492277 	 gene: 
+1,1,12,
+fitness: 0.003574 	 pi: 0.069703 	 gene: 
+12,1,1,
+fitness: 0.002911 	 pi: 0.424950 	 gene: 
+1,3,3,
+fitness: 0.002805 	 pi: 0.793267 	 gene: 
+1,1,14,
+fitness: 0.002297 	 pi: 0.922178 	 gene: 
+1,1,6,
+fitness: 0.002213 	 pi: 0.829109 	 gene: 
+13,7,13,
+fitness: 0.002127 	 pi: 0.146931 	 gene: 
+12,12,1,
+fitness: 0.001871 	 pi: 0.124950 	 gene: 
+12,1,12,
+fitness: 0.001775 	 pi: 0.610297 	 gene: 
+1,1,3,
+fitness: 0.001737 	 pi: 0.283564 	 gene: 
+2,14,14,
+fitness: 0.001529 	 pi: 0.594851 	 gene: 
+2,12,12,
+fitness: 0.001522 	 pi: 0.262772 	 gene: 
+6,1,6,
+BUILD SUCCESSFUL (total time: 82 minutes 34 seconds)

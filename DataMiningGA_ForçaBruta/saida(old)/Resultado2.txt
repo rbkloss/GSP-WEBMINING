@@ -1,0 +1,37 @@
+Result List, size: 18
+fitness: 0.001996 	 pi: 1.000000 	 gene: 
+3,1,5
+fitness: 0.001331 	 pi: 0.846667 	 gene: 
+2,7,9
+fitness: 0.001331 	 pi: 0.928151 	 gene: 
+6,10,2
+fitness: 0.001331 	 pi: 0.928151 	 gene: 
+19,16,9
+fitness: 0.001331 	 pi: 0.980155 	 gene: 
+10,7,9
+fitness: 0.001331 	 pi: 0.973577 	 gene: 
+2,4,9
+fitness: 0.001331 	 pi: 0.902680 	 gene: 
+8,15,14
+fitness: 0.001331 	 pi: 0.953976 	 gene: 
+16,7,1
+fitness: 0.001331 	 pi: 0.921750 	 gene: 
+10,10,18
+fitness: 0.001331 	 pi: 0.941019 	 gene: 
+8,7,14
+fitness: 0.001331 	 pi: 0.967021 	 gene: 
+16,15,17
+fitness: 0.001331 	 pi: 0.986755 	 gene: 
+16,7,18
+fitness: 0.001331 	 pi: 0.953976 	 gene: 
+9,8,14
+fitness: 0.001331 	 pi: 0.960487 	 gene: 
+8,4,1
+fitness: 0.001331 	 pi: 0.967021 	 gene: 
+6,16,17
+fitness: 0.001331 	 pi: 0.980155 	 gene: 
+6,7,14
+fitness: 0.001331 	 pi: 0.986755 	 gene: 
+15,17,4
+fitness: 0.001331 	 pi: 1.000000 	 gene: 
+9,16,14

@@ -1,0 +1,6 @@
+There are 1 candidates.
+Depth 0
+{[33,36,34,35,42,][0]}depth :0
+
+
+

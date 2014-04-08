@@ -1,0 +1,23 @@
+Result List, size: 12
+gene: 
+6,6,6,
+gene: 
+13,13,13,
+gene: 
+7,7,7,
+gene: 
+15,15,15,
+gene: 
+4,4,4,
+gene: 
+14,14,14,
+gene: 
+1,1,1,
+gene: 
+5,5,5,
+gene: 
+2,2,2,
+gene: 
+11,11,11,
+gene: 
+8,8,8,

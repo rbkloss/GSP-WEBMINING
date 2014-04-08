@@ -1,0 +1,10 @@
+Frequência dos caminhos de tamanho1 é : 500 
+Frequência dos caminhos de tamanho2 é : 500 
+Frequência dos caminhos de tamanho3 é : 500 
+Frequência dos caminhos de tamanho4 é : 500 
+Frequência dos caminhos de tamanho5 é : 500 
+Frequência dos caminhos de tamanho6 é : 0 
+Frequência dos caminhos de tamanho7 é : 0 
+Frequência dos caminhos de tamanho8 é : 0 
+Frequência dos caminhos de tamanho9 é : 0 
+Frequência dos caminhos de tamanho10 é : 0 

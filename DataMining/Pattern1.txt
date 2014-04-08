@@ -1,0 +1,21 @@
+PatternList(size:17): 
+ Distribution :276399.66 Totalfreq : 4698794.0
+
+1 	freq:669838.0	 confidence: -1.0 support : 0.1425553
+8 	freq:344282.0	 confidence: -1.0 support : 0.07327029
+2 	freq:322275.0	 confidence: -1.0 support : 0.068586744
+4 	freq:295044.0	 confidence: -1.0 support : 0.06279143
+7 	freq:289510.0	 confidence: -1.0 support : 0.061613683
+14 	freq:288987.0	 confidence: -1.0 support : 0.06150238
+6 	freq:230213.0	 confidence: -1.0 support : 0.04899406
+12 	freq:177282.0	 confidence: -1.0 support : 0.037729256
+5 	freq:137053.0	 confidence: -1.0 support : 0.029167697
+13 	freq:133085.0	 confidence: -1.0 support : 0.028323226
+9 	freq:118962.0	 confidence: -1.0 support : 0.02531756
+3 	freq:106221.0	 confidence: -1.0 support : 0.022606013
+10 	freq:103083.0	 confidence: -1.0 support : 0.021938182
+11 	freq:67144.0	 confidence: -1.0 support : 0.014289624
+15 	freq:40506.0	 confidence: -1.0 support : 0.00862051
+16 	freq:24002.0	 confidence: -1.0 support : 0.0051081195
+17 	freq:12795.0	 confidence: -1.0 support : 0.0027230391
+

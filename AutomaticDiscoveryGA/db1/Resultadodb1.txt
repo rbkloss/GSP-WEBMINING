@@ -1,0 +1,24 @@
+PatternList(size:20): 
+ Distribution :-1.0 Totalfreq : 26.0
+
+8 8 8 	freq:3.0	 confidence: -1.0 support : 0.115384616
+14 14 14 	freq:3.0	 confidence: -1.0 support : 0.115384616
+8 8 1 	freq:2.0	 confidence: -1.0 support : 0.07692308
+1 1 1 	freq:2.0	 confidence: -1.0 support : 0.07692308
+14 9 10 	freq:1.0	 confidence: -1.0 support : 0.03846154
+14 14 10 	freq:1.0	 confidence: -1.0 support : 0.03846154
+10 10 10 	freq:1.0	 confidence: -1.0 support : 0.03846154
+1 8 1 	freq:1.0	 confidence: -1.0 support : 0.03846154
+1 8 8 	freq:1.0	 confidence: -1.0 support : 0.03846154
+1 2 1 	freq:1.0	 confidence: -1.0 support : 0.03846154
+13 2 2 	freq:1.0	 confidence: -1.0 support : 0.03846154
+2 2 13 	freq:1.0	 confidence: -1.0 support : 0.03846154
+2 2 2 	freq:1.0	 confidence: -1.0 support : 0.03846154
+2 13 13 	freq:1.0	 confidence: -1.0 support : 0.03846154
+13 13 13 	freq:1.0	 confidence: -1.0 support : 0.03846154
+7 7 7 	freq:1.0	 confidence: -1.0 support : 0.03846154
+14 1 1 	freq:1.0	 confidence: -1.0 support : 0.03846154
+14 14 1 	freq:1.0	 confidence: -1.0 support : 0.03846154
+8 8 7 	freq:1.0	 confidence: -1.0 support : 0.03846154
+4 4 4 	freq:1.0	 confidence: -1.0 support : 0.03846154
+

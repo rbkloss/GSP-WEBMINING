@@ -1,0 +1,7 @@
+Result List, size: 3
+gene: 
+819,1688,818,
+gene: 
+819,0,818,
+gene: 
+0,1688,818,

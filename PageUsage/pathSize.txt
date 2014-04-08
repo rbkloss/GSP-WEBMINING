@@ -1,0 +1,10 @@
+Caminho de tamanho1 está presente  : 500 vezes  %: 100.0
+Caminho de tamanho2 está presente  : 500 vezes  %: 100.0
+Caminho de tamanho3 está presente  : 500 vezes  %: 100.0
+Caminho de tamanho4 está presente  : 500 vezes  %: 100.0
+Caminho de tamanho5 está presente  : 500 vezes  %: 100.0
+Caminho de tamanho6 está presente  : 0 vezes  %: 0.0
+Caminho de tamanho7 está presente  : 0 vezes  %: 0.0
+Caminho de tamanho8 está presente  : 0 vezes  %: 0.0
+Caminho de tamanho9 está presente  : 0 vezes  %: 0.0
+Caminho de tamanho10 está presente  : 0 vezes  %: 0.0

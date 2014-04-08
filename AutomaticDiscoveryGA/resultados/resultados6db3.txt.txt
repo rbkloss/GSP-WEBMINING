@@ -1,0 +1,7 @@
+Result List, size: 3
+gene: 
+104,4288,0,
+gene: 
+104,0,0,
+gene: 
+104,28809,0,

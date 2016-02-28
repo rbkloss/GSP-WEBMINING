@@ -7,7 +7,7 @@
 		1 3 4
 		2 5 3
 	
-	Where each line represents an user access and each column a page accessed.
+		Where each line represents an user access and each column a page accessed.
 		If page 'a' is in column i and page 'b' is in column j, if i<j i occurrs before j.
 	
 	
